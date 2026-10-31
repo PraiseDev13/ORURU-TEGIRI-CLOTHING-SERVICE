@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import top from '../assets/top.jpg'
+import  classic from '../assets/classic.jpg'
 
 // PRODUCT DATA
 const products = [
@@ -32,7 +34,8 @@ const products = [
     category: "Women",
     description: "A timeless jacket for everyday elegance.",
     price: 145,
-    image: "https://images.unsplash.com/photo-1548624149-f3221a6e2d6b?w=800",
+    image: classic,
+
   },
   {
     id: 5,
@@ -48,7 +51,7 @@ const products = [
     category: "Unisex",
     description: "Lightweight fabric for effortless styling.",
     price: 55,
-    image: "https://images.unsplash.com/photo-1564257577-1d5e7c5c7d1c?w=800",
+    image: top,
   },
 ];
 
