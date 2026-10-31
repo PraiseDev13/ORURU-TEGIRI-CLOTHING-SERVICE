@@ -21,7 +21,7 @@ function Home () {
      
 
       <h1 className="font-serif text-[#fff8e9] text-5xl sm:text-6xl md:text-8xl leading-[1.05] max-w-2xl">
-         ORURU TEGIRI <span className="italic"> CLOTHING</span> SERVICE
+         ORURU TEGIRI <span className="italic"> CLOTHING</span> STORE
       </h1>
 
       <p className="text-[#f5eadb] text-sm md:text-base leading-7 max-w-md mt-7">

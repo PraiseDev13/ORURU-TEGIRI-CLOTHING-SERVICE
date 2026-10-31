@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import {Link}  from 'react-router-dom'
 function Nav() {
   const [menuOpen, setMenuOpen] = useState(false);
 
@@ -30,7 +30,7 @@ function Nav() {
               </div>
 
               <h1 className="hidden md:block font-serif text-2xl text-[#514438]">
-                ORURU TEGIRI CLOTHING SERVICE
+                ORURU TEGIRI CLOTHING STORE
               </h1>
 
             
@@ -169,4 +169,4 @@ function Nav() {
   );
 }
 
-export default Nav;
+export default Nav ;
