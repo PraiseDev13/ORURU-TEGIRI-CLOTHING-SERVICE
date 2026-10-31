@@ -159,7 +159,7 @@ function Nav() {
           </div>
 
           <p className="text-xs text-[#918779] mt-16">
-            ORURU TEGIRI CLOTHING SERVICE
+            ORURU TEGIRI CLOTHING STORE
           </p>
 
         </div>
