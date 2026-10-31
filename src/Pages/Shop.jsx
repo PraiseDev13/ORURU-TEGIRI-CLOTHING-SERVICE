@@ -202,7 +202,7 @@ function Shop() {
       <footer className="bg-[#eee9df] py-10 text-center">
 
         <h2 className="font-serif text-2xl text-[#514438]">
-            ORURU TEGIRI CLOTHING STORE
+            ORURU TEJIRI CLOTHING STORE
         </h2>
 
         <p className="text-sm text-[#82786d] mt-3">
@@ -210,7 +210,7 @@ function Shop() {
         </p>
 
         <p className="text-xs text-[#82786d] mt-5">
-          © 2026 ORURU TEGIRI CLOTHING STORE. All rights reserved.
+          © 2026 ORURU TEJIRI CLOTHING STORE. All rights reserved.
         </p>
 
       </footer>

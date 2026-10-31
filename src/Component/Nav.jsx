@@ -21,7 +21,7 @@ function Nav() {
 
               <div className="md:hidden">
                 <h1 className="font-serif text-xl sm:text-2xl text-[#514438]">
-                  ORURU TEGIRI
+                  ORURU TEJIRI
                 </h1>
 
                 <p className="text-[10px] tracking-[2px] text-[#82786d]">
@@ -30,7 +30,7 @@ function Nav() {
               </div>
 
               <h1 className="hidden md:block font-serif text-2xl text-[#514438]">
-                ORURU TEGIRI CLOTHING STORE
+                ORURU TEJIRI CLOTHING STORE
               </h1>
 
             
@@ -107,7 +107,7 @@ function Nav() {
         <div className="flex items-center justify-between px-6 h-20 border-b border-[#e9e3d8]">
 
           <h2 className="font-serif text-xl text-[#514438]">
-            ORURU TEGIRI
+            ORURU TEJIRI
           </h2>
 
           <button
@@ -159,7 +159,7 @@ function Nav() {
           </div>
 
           <p className="text-xs text-[#918779] mt-16">
-            ORURU TEGIRI CLOTHING STORE
+            ORURU TEJIRI CLOTHING STORE
           </p>
 
         </div>
