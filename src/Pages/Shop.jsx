@@ -73,7 +73,7 @@ function Shop() {
 
   // WHATSAPP ORDER
   const handleOrder = (product) => {
-    const message = `Hello ORURU TEGIRI CLOTHING SERVICE, I am interested in ordering ${product.name}. Price: $${product.price}.`;
+    const message = `Hello ORURU TEJIRI CLOTHING STORE, I am interested in ordering ${product.name}. Price: $${product.price}.`;
 
     const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 

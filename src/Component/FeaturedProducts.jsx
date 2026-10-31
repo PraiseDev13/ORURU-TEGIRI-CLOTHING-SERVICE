@@ -36,7 +36,7 @@ function FeaturedProducts() {
   const whatsappNumber = "2349119361695";
 
   const orderProduct = (product) => {
-    const message = `Hello ORURU TEGIRI CLOTHING SERVICE, I am interested in ordering the ${product.name}.`;
+    const message = `Hello ORURU TEJIRI CLOTHING STORE, I am interested in ordering the ${product.name}.`;
     const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 
     window.open(url, "_blank");
